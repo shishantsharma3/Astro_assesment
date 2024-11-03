@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577562685677",
+    "project_id": "occultsciencesapp",
+    "storage_bucket": "occultsciencesapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577562685677:android:f610f78b89ed2e4e081ce4",
+        "android_client_info": {
+          "package_name": "com.example.astro_app_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7w6fTBbNiREbZ0JpC3qXjE_s7IJQDVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
